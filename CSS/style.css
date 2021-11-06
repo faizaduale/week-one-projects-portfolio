@@ -1,5 +1,6 @@
 body{
     background-color: #438930;
+    text-align: center;
 }
 .nav1{
     background-color: #c4c4c4;
@@ -9,8 +10,6 @@ body{
 }
 .section1{
     background-color: #438930;
+.image{
+    border-radius: 50%;
 }
- .image{
-text-align: center;
-margin-top 10px
- }
